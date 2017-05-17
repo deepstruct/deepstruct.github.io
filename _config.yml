@@ -1,0 +1,14 @@
+# Site settings
+title1: "ICML 17 "
+title2: " Workshop on Deep Structured Prediction"
+email: i.augenstein@ucl.ac.uk
+#description: "EMNLP 16: Structured Prediction for Natural Language Processing"
+baseurl: ""
+url1: "http://icml.cc/2017/"
+url2: "http://deepstruct.github.io"
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
