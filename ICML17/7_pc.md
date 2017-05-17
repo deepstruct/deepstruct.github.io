@@ -21,4 +21,3 @@ name: 7
 * Andreas Vlachos, University of Sheffield
 * Scott Yih, Microsoft Research
 * Yisong Yue, California Institute of Technology
-* 
