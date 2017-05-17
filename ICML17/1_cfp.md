@@ -1,6 +1,6 @@
 ---
 layout: page17
-title: ICML17 Workshop on Deep Structured Prediction
+title: DeepStruct-CFP
 permalink: /ICML17
 name: 1
 ---
