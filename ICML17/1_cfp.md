@@ -8,7 +8,7 @@ name: 1
 Workshop of the International Conference on Machine Learning (ICML) 2017 
 Sydney, Australia 
 11 August 2017
-Website: http://deepstruct.github.io/icml17
+Website: [http://deepstruct.github.io/icml17](http://deepstruct.github.io/icml17)
 
 *TL;DR: 4 pages, in ICML format, submit by June 2nd PT.*
   
@@ -28,7 +28,7 @@ We invite the submission of short papers no longer than four pages, including re
 * Deep learning applications with dependent inputs or outputs
 
 Papers should be formatted according to the ICML template: 
-(http://media.nips.cc/Conferences/ICML2017/icml2017.tgz). 
+([http://media.nips.cc/Conferences/ICML2017/icml2017.tgz](http://media.nips.cc/Conferences/ICML2017/icml2017.tgz)). 
 Only papers using the above template will be considered.  Word templates will not be provided. 
   
 Papers should be submitted through easychair at the following address: 
@@ -38,7 +38,7 @@ Papers will be reviewed for relevance and quality. Accepted papers will be poste
   
 ### Important Dates
 * Abstracts deadline: June 2, 2017  PT
-* Notification of acceptance:  June 186, 2017 
+* Notification of acceptance:  June 18, 2017 
 * Camera-ready deadline:  August 1, 2017 
 
 
