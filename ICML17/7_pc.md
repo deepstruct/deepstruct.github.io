@@ -4,16 +4,16 @@ title: Program Committee
 permalink: /ICML17/pc/
 name: 7
 ---
-
+* Jason Baldridge, Google
 * David Belanger, University of Massachusetts Amherst
 * Matthew Blaschko, KU Leuven
 * Ryan Cotterell, Johns Hopkins University
 * Ming-Wei Chang, Microsoft Research
-* Raia Hadsell, Google DeepMind
 * Hal Daumé III, University of Maryland
 * Justin Domke, University of Massachusetts Amherst
 * Andrew McCallum, University of Massachusetts Amherst
 * Eliyahu Kiperwasser, Bar-Ilan University
+* Kevin Murphy, Google
 * Jason Naradowsky, University of Cambridge
 * Sebastian Nowozin, Microsoft Research, Cambridge, UK
 * Nanyun Peng, Johns Hopkins University
