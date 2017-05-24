@@ -34,7 +34,7 @@ Only papers using the above template will be considered.  Word templates will no
 Papers should be submitted through easychair at the following address: 
 [https://easychair.org/conferences/?conf=1stdeepstructws](https://easychair.org/conferences/?conf=1stdeepstructws) 
 
-Papers will be reviewed for relevance and quality. Accepted papers will be posted online. Authors of high-quality papers will be offered oral presentations at the workshop, and we will award a best-paper and runner-up prize.
+Papers will be reviewed for relevance and quality. Accepted papers will be posted online. Authors of high-quality papers will be offered oral presentations at the workshop, and we will award a best-paper and runner-up prize sponsored by Google.
   
 ### Important Dates
 * Abstracts deadline: June 2, 2017  PT
