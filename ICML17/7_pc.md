@@ -11,6 +11,8 @@ name: 7
 * Ming-Wei Chang, Microsoft Research
 * Hal Daumé III, University of Maryland
 * Justin Domke, University of Massachusetts Amherst
+* David Duvenaud, University of Toronto
+* Daniel Lowd, University of Oregon
 * Andrew McCallum, University of Massachusetts Amherst
 * Eliyahu Kiperwasser, Bar-Ilan University
 * Kevin Murphy, Google
@@ -28,4 +30,5 @@ name: 7
 * Yangfeng Ji, University of Washington
 * Yisong Yue, California Institute of Technology
 * Shuai Zheng, eBay
+
 
