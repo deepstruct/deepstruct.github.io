@@ -15,6 +15,7 @@ name: 7
 * Daniel Lowd, University of Oregon
 * Andrew McCallum, University of Massachusetts Amherst
 * Eliyahu Kiperwasser, Bar-Ilan University
+* Vitaly Kuznetsov, Google
 * Kevin Murphy, Google
 * Jason Naradowsky, University of Cambridge
 * Sebastian Nowozin, Microsoft Research, Cambridge, UK
