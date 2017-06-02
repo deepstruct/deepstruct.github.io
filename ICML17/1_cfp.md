@@ -10,7 +10,7 @@ Sydney, Australia
 11 August 2017
 Website: [http://deepstruct.github.io/icml17](http://deepstruct.github.io/icml17)
 
-*TL;DR: 4 pages, in ICML format, submit by June 2nd PT.*
+*TL;DR: 4 pages, in ICML format, submit by June 16 PT.*
   
 Deep learning has revolutionized machine learning for many domains and problems. Today, most successful applications of deep learning involve predicting single variables (like univariate regression or multi-class classification). However, many real problems involve highly dependent, structured variables. In such scenarios, it is desired or even necessary to model correlations and dependencies between the multiple input and output variables. Such problems arise in a wide range of domains, from natural language processing, computer vision, computational biology and others. 
 
@@ -37,8 +37,8 @@ Papers should be submitted through easychair at the following address:
 Papers will be reviewed for relevance and quality. Accepted papers will be posted online. Authors of high-quality papers will be offered oral presentations at the workshop, and we will award a best-paper and runner-up prize sponsored by Google.
   
 ### Important Dates
-* Abstracts deadline: June 2, 2017  PT
-* Notification of acceptance:  June 18, 2017 
+* Abstracts deadline: June 16, 2017  PT ~~June 2, 2017  PT~~
+* Notification of acceptance: July 1, 2017 ~~ June 18, 2017~~ 
 * Camera-ready deadline:  August 1, 2017 
 
 
