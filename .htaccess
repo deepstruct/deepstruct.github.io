@@ -1,0 +1,9 @@
+//Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^https://deepstruct.github.io[nc]
+RewriteRule ^(.*)$ http://www.https://deepstruct.github.io/$1 [r=301,nc]
+
+//301 Redirect Entire Directory
+RedirectMatch 301 /icml17(.*) /ICML17/$1
+ 
