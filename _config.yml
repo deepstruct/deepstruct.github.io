@@ -12,3 +12,6 @@ url2: "http://deepstruct.github.io"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-redirect-from
