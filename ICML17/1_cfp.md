@@ -2,6 +2,7 @@
 layout: page17
 title: DeepStruct-CFP
 permalink: /ICML17
+redirect_from: "/icml17"
 name: 1
 ---
 
