@@ -4,7 +4,6 @@ title: Program Committee
 permalink: /ICML17/pc/
 name: 7
 ---
-* Jason Baldridge, Google
 * David Belanger, University of Massachusetts Amherst
 * Matthew Blaschko, KU Leuven
 * Ryan Cotterell, Johns Hopkins University

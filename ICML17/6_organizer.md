@@ -11,6 +11,7 @@ name: 6
 * [Bert Huang](berthuang.com), Virginia Tech
 * [Andre Martins](https://www.cs.cmu.edu/~afm/Home.html), Unbabel and Instituto de Telecomunicacoes
 * [Ofer Meshi](https://sites.google.com/site/ofermeshi/), Google
+* [Yishu Miao](https://www.cs.ox.ac.uk/people/yishu.miao/), University of Oxford
 * [Alexander Schwing](http://www.alexander-schwing.de/), University of Illinois Urbana-Champaign
 
 
