@@ -5,7 +5,7 @@ permalink: /ICML17/organizers/
 name: 6
 ---
 
-* [Isabelle Augenstein](http://isabelleaugenstein.github.io), University College London
+* [Isabelle Augenstein](http://isabelleaugenstein.github.io), University of Copenhagen
 * [Kai-Wei Chang](http://kwchang.net), University of California at Los Angeles
 * [Gal Chechik](http://chechiklab.biu.ac.il/~gal/), Bar-Ilan University / Google
 * [Bert Huang](berthuang.com), Virginia Tech
