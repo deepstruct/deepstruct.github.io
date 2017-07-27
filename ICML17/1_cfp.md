@@ -43,6 +43,17 @@ Papers will be reviewed for relevance and quality. Accepted papers will be poste
 * Camera-ready deadline:  August 1, 2017 
 
 
+### Organizers
+* [Isabelle Augenstein](http://isabelleaugenstein.github.io), University of Copenhagen
+* [Kai-Wei Chang](http://kwchang.net), University of California at Los Angeles
+* [Gal Chechik](http://chechiklab.biu.ac.il/~gal/), Bar-Ilan University / Google
+* [Bert Huang](berthuang.com), Virginia Tech
+* [Andre Martins](https://www.cs.cmu.edu/~afm/Home.html), Unbabel and Instituto de Telecomunicacoes
+* [Ofer Meshi](https://sites.google.com/site/ofermeshi/), Google
+* [Yishu Miao](https://www.cs.ox.ac.uk/people/yishu.miao/), University of Oxford
+* [Alexander Schwing](http://www.alexander-schwing.de/), University of Illinois Urbana-Champaign
+
+
 
 
 
