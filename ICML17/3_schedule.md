@@ -10,6 +10,8 @@ Confirmed invited speakers:
 * [Raquel Urtasun](https://www.cs.toronto.edu/~urtasun/), University of Toronto; Head of Uber ATG Toronto
 * [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), University of Massachusetts Amherst
 * [Dhruv Batra](http://www.cc.gatech.edu/~dbatra/index.html), Georgia Tech / Facebook
+* [David Sontag](http://clinicalml.org/) , MIT
+* [Wang Ling](), Google DeepMind
 
 Schedule:
 
