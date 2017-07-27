@@ -20,9 +20,9 @@ Schedule:
 |  9:20  |  Invited Talk  |  Wang Ling (Google DeepMind)  |
 |  10:00 | Coffee break   |
 |  10:30  |  Contributed Talk   | Christopher Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Mohammad Norouzi, Andriy Mnih, Arnaud Doucet and Yee Whye Teh <br> **Filtering Variational Objectives** |
-|  10:50  |  Poster Spotlight (1-min blitz)   |  
+|  10:50  |  Poster Spotlight   |   1-min blitz (All posters)
 |  11:20  |  Invited Talk  |  Ryan Adams (Harvard) <br> **Building Probabilistic Structure into Massively Parameterized Models** | 
-|  12:00  |  Lunch break and Poster session    |
+|  12:00  |    | Lunch break & Poster session  
 |  14:00   |  Invited Talk  |  David Sontag (MIT)<br> **Deep Markov models** |
 |  14:40  |   Contributed Talk   |  George Tucker, Andriy Mnih, Chris J. Maddison, Dieterich Lawson and Jascha Sohl-Dickstein. <br> **REINFORCing Concrete with REBAR** |
 |  15:00    |  Coffee break    |
