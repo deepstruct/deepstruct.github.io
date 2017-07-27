@@ -16,17 +16,17 @@ Schedule:
 | Time          |  Event        |  Speaker | Title | 
 | ------------- | ------------- | -------------  |  -------------  |
 |  8:30   |  Welcome  |
-|  8:40 | Invited Talk 1  | Andrew McCallum (UMass) |
-|  9:20  |  Invited Talk 2  |  Wang Ling (Google DeepMind)  |
+|  8:40 | Invited Talk  | Andrew McCallum (UMass) |
+|  9:20  |  Invited Talk  |  Wang Ling (Google DeepMind)  |
 |  10:00  |  Coffee break   |
-|  10:30  |  Contributed Talk 1   | Christopher Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Mohammad Norouzi, Andriy Mnih, Arnaud Doucet and Yee Whye Teh | Filtering Variational Objectives |
+|  10:30  |  Contributed Talk   | Christopher Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Mohammad Norouzi, Andriy Mnih, Arnaud Doucet and Yee Whye Teh | Filtering Variational Objectives |
 |  10:50  |  Poster Spotlight (1-min blitz) |    |
-|  11:20  |  Invited Talk 3  |  Ryan Adams (Harvard)  | Building Probabilistic Structure into Massively Parameterized Models | 
+|  11:20  |  Invited Talk  |  Ryan Adams (Harvard)  | Building Probabilistic Structure into Massively Parameterized Models | 
 |  12:00 |  Lunch break and Poster session  |  |
-|  14:00   |  Invited Talk 4  |  David Sontag (MIT)  |  Deep Markov models |
-|  14:40  |   Contributed Talk 2  |  George Tucker, Andriy Mnih, Chris J. Maddison, Dieterich Lawson and Jascha Sohl-Dickstein. | REINFORCing Concrete with REBAR |
+|  14:00   |  Invited Talk  |  David Sontag (MIT)  |  Deep Markov models |
+|  14:40  |   Contributed Talk   |  George Tucker, Andriy Mnih, Chris J. Maddison, Dieterich Lawson and Jascha Sohl-Dickstein. | REINFORCing Concrete with REBAR |
 |  15:00   |  Coffee break  |  |
-|  15:30   |  Invited Talk 5  |  Dhruv Batra (Georgia Tech) |
-|  16:10  |  Invited Talk 6  |  Raquel Urtasun (UToronto and Uber) |
+|  15:30   |  Invited Talk  |  Dhruv Batra (Georgia Tech) |
+|  16:10  |  Invited Talk  |  Raquel Urtasun (UToronto and Uber) |
 |  16:50   | Panel discussion  |
 |  17:30   |  Closing remarks  |    |
