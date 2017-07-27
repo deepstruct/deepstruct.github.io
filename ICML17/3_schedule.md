@@ -13,20 +13,20 @@ Confirmed invited speakers:
 
 Schedule:
 
-| Time          |  Event        |  Speaker |
-| ------------- | ------------- | ------------- 
+| Time          |  Event        |  Speaker | Title | 
+| ------------- | ------------- | -------------  |  -------------  |
 |  8:30:00 AM   |  Welcome  |
-|  8:40:00 AM | Invited Talk 1  | Andrew McCallum (University of Massachusetts Amherst) |
+|  8:40:00 AM | Invited Talk 1  | Andrew McCallum (UMass) |
 |  9:20:00 AM  |  Invited Talk 2  |  Wang Ling (Google DeepMind)  |
 |  10:00:00 AM  |  Coffee break   |
 |  10:30:00 AM  |  Contributed Talk 1   |  |
 |  10:50:00 AM  |  Poster Spotlight (1-min blitz) |    |
-|  11:20:00 AM  |  Invited Talk 3  |  Ryan Adams (Harvard University)  |
+|  11:20:00 AM  |  Invited Talk 3  |  Ryan Adams (Harvard)  | Building Probabilistic Structure into Massively Parameterized Models | 
 |  12:00:00 AM  |  Lunch break and Poster session  |  |
-|  2:00:00 PM   |  Invited Talk 4  |  David Sontag (MIT)  |  |
+|  2:00:00 PM   |  Invited Talk 4  |  David Sontag (MIT)  |  Deep Markov models |
 |  2:40:00 PM   |   Contributed Talk 2  |   |
 |  3:00:00 PM   |  Coffee break  |  |
 |  3:30:00 PM   |  Invited Talk 5  |  Dhruv Batra (Georgia Tech) |
-|  4:10:00 PM   |  Invited Talk 6  |  Raquel Urtasun (University of Toronto and Uber) |
+|  4:10:00 PM   |  Invited Talk 6  |  Raquel Urtasun (UToronto and Uber) |
 |  4:50:00 PM   | Panel discussion  |
 |  5:30:00 PM   |  Closing remarks  |    |
