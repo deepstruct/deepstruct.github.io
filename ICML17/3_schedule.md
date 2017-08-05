@@ -28,7 +28,7 @@ Schedule:
 |  14:00   |  Invited Talk  |  David Sontag (MIT)<br> **Deep Markov models** |
 |  14:40  |   Contributed Talk   |  George Tucker, Andriy Mnih, Chris J. Maddison, Dieterich Lawson and Jascha Sohl-Dickstein. <br> **REINFORCing Concrete with REBAR** |
 |  15:00    |     | Coffee break
-|  15:30   |  Invited Talk  |  Dhruv Batra (Georgia Tech) |
+|  15:30   |  Invited Talk  |  Dhruv Batra (Georgia Tech and Facebook AI Research) |
 |  16:10  |  Invited Talk  |  Raquel Urtasun (UToronto and Uber) |
 |  16:50  |   | Panel discussion
 |  17:30  |  |Closing remarks 
