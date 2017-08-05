@@ -5,7 +5,7 @@ permalink: /ICML17/speakers/
 name: 6
 ---
 
-## David Sontag
+## [David Sontag](http://clinicalml.org/) (MIT)
 
 #### Title: Deep Markov models
 
@@ -27,10 +27,19 @@ higher held-out likelihood.
 
 Joint work with Rahul Krishnan and Uri Shalit.
 
-## Ryan Adams
+## [Ryan Adams](http://people.seas.harvard.edu/~rpa/) (Harvard)
 
 #### Title: Building Probabilistic Structure into Massively Parameterized Models
 
 #### Abstract:
 Scientific applications of machine learning typically involve the identification of interpretable structure from high-dimensional observations.  It is often challenging, however, to balance the flexibility required for high dimensional problems against the parsimonious structure that helps us model physical reality.  I view this challenge through the lens of semiparametric modeling, in which a massively-parameterized function approximator is coupled to a compact and interpretable probabilistic model.  Of particular interest in this vein is the merging of deep neural networks with graphical models containing latent variables, which enables each component to play to its strengths.  I will discuss several different classes of such models, and various applications, in areas such as astronomy, chemistry, neuroscience, and sports analytics.
+
+## [Sujith Ravi](http://sravi.org/) (Google)
+
+#### Title: Neural Graph Learning
+
+#### Abstract: 
+Recent machine learning advances have enabled us to build intelligent systems that understand semantics from speech, natural language text and images. While great progress has been made in many AI fields, building scalable intelligent systems from "scratch" still remains a daunting challenge for many applications.To overcome this, we exploit the power of graph algorithms since they offer a simple elegant way to express different types of relationships observed in data and can concisely encode structure underlying a problem. In this talk I will focus on “How can we combine the flexibility of graphs with the power of machine learning?”
+
+I will describe how we address these challenges and design efficient algorithms by employing graph-based machine learning as a computing mechanism to solve real-world prediction tasks. Our graph-based machine learning framework can operate at large scale and easily handle massive graphs (containing billions of vertices and trillions of edges) and make predictions over billions of output labels while achieving O(1) space complexity per vertex. In particular, we combine graph learning with deep neural networks to power a number of machine intelligence applications, including Smart Reply, image recognition and video summarization to tackle complex language understanding and computer vision problems. l will also introduce some of our latest research and share results on “neural graph learning”, a new joint optimization framework for combing graph learning with deep neural network models.
 
