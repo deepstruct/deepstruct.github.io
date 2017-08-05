@@ -43,3 +43,14 @@ Recent machine learning advances have enabled us to build intelligent systems th
 
 I will describe how we address these challenges and design efficient algorithms by employing graph-based machine learning as a computing mechanism to solve real-world prediction tasks. Our graph-based machine learning framework can operate at large scale and easily handle massive graphs (containing billions of vertices and trillions of edges) and make predictions over billions of output labels while achieving O(1) space complexity per vertex. In particular, we combine graph learning with deep neural networks to power a number of machine intelligence applications, including Smart Reply, image recognition and video summarization to tackle complex language understanding and computer vision problems. l will also introduce some of our latest research and share results on “neural graph learning”, a new joint optimization framework for combing graph learning with deep neural network models.
 
+
+## [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/index.html) (Georgia Tech and Facebook AI Research)
+
+#### Title: Sequence-Level Training of Neural Models for Visual Dialog
+
+#### Abstract:
+
+Neural sequence models (and their deep/hierarchical variants) have seen widespread adoption across a range of AI applications (machine translation, dialog systems, image captioning, visual question answering, etc). In this talk, I will introduce first introduce a new AI talk — Visual Dialog — which requires an AI agent to hold a meaningful dialog with humans in natural, conversational language about visual content. Specifically, given an image, a dialog history, and a question about the image, the agent has to ground the question in image, infer context from history, and answer the question accurately.
+Using this application as a backdrop, I will discuss approaches for sequence-level training of neural models that optimize high-order downstream task-specific objectives.
+
+
