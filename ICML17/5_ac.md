@@ -24,4 +24,4 @@ name: 5
 | Joel Ruben Antony Moniz and Christopher Pal. | [Deep Convolutional Networks with Non-convolutional Recurrent Memory for Structured Prediction](1stDeepStructWS_paper_18.pdf) | 
 | Xinyi Yang, Hao Liu and Zenglin Xu. | [Variational Structured Stochastic Network](1stDeepStructWS_paper_9.pdf) |
 |Lev Faivishevsky and Amitai Armon.  | [Deep structured modeling of deep learning training convergence with application to hyperparameter optimization](1stDeepStructWS_paper_3.pdf) |
-| Heejin Choi. | [Handling Large Structural Costs in Neural Networks with Slack Rescaling](1stDeepStructWS_paper_20.pdf) |
+| Heejin Choi and Karl Stratos | [Handling Large Structural Costs in Neural Networks with Slack Rescaling](1stDeepStructWS_paper_20.pdf) |
