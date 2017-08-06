@@ -7,7 +7,7 @@ name: 3
 Confirmed invited speakers:
 
 * [Ryan Adams](http://people.seas.harvard.edu/~rpa/), Harvard University
-* [Raquel Urtasun](https://www.cs.toronto.edu/~urtasun/), University of Toronto; Head of Uber ATG Toronto
+* [Sujith Ravi](http://sravi.org/) (Google)
 * [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), University of Massachusetts Amherst
 * [Dhruv Batra](http://www.cc.gatech.edu/~dbatra/index.html), Georgia Tech / Facebook
 * [David Sontag](http://clinicalml.org/) , MIT
@@ -28,7 +28,7 @@ Schedule:
 |  14:00   |  Invited Talk  |  David Sontag (MIT)<br> **Deep Markov models** |
 |  14:40  |   Contributed Talk   |  George Tucker, Andriy Mnih, Chris J. Maddison, Dieterich Lawson and Jascha Sohl-Dickstein. <br> **REINFORCing Concrete with REBAR** |
 |  15:00    |     | Coffee break
-|  15:30   |  Invited Talk  |  Dhruv Batra (Georgia Tech and Facebook AI Research) |
-|  16:10  |  Invited Talk  |  Raquel Urtasun (UToronto and Uber) |
+|  15:30   |  Invited Talk  |  Dhruv Batra (Georgia Tech and Facebook AI Research) **Sequence-Level Training of Neural Models for Visual Dialog** |
+|  16:10  |  Invited Talk  |  Sujith Ravi (Google) **Neural Graph Learning ** |
 |  16:50  |   | Panel discussion
 |  17:30  |  |Closing remarks 
