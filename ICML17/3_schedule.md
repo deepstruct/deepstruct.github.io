@@ -29,6 +29,6 @@ Schedule:
 |  14:40  |   Contributed Talk   |  George Tucker, Andriy Mnih, Chris J. Maddison, Dieterich Lawson and Jascha Sohl-Dickstein. <br> **REINFORCing Concrete with REBAR** |
 |  15:00    |     | Coffee break
 |  15:30   |  Invited Talk  |  Dhruv Batra (Georgia Tech and Facebook AI Research) **Sequence-Level Training of Neural Models for Visual Dialog** |
-|  16:10  |  Invited Talk  |  Sujith Ravi (Google) **Neural Graph Learning ** |
+|  16:10  |  Invited Talk  |  Sujith Ravi (Google) **Neural Graph Learning** |
 |  16:50  |   | Panel discussion
 |  17:30  |  |Closing remarks 
