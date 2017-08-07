@@ -4,6 +4,8 @@ title: Schedule
 permalink: /ICML17/schedule/
 name: 3
 ---
+Time/Location:  Fri Aug 11th 08:30 AM -- 05:30 PM @ C4.5
+
 Confirmed invited speakers:
 
 * [Ryan Adams](http://people.seas.harvard.edu/~rpa/), Harvard University
