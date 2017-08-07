@@ -54,7 +54,7 @@ Neural sequence models (and their deep/hierarchical variants) have seen widespre
 Using this application as a backdrop, I will discuss approaches for sequence-level training of neural models that optimize high-order downstream task-specific objectives.
 
 
-## Wang Ling (Google DeepMind)
+## Wang Ling (Google)
 #### Title: Text Generation via Program Induction
 
 #### Abstract: 
