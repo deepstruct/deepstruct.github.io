@@ -19,7 +19,7 @@ Schedule:
 | ------------- | ------------- | -------------  |
 |  8:30 |   | Welcome
 |  8:40 | Invited Talk  | Andrew McCallum (UMass)<br> **An introduction, Structured Prediction Energy Networks, and follow-ons** |
-|  9:20  |  Invited Talk  |  Wang Ling (Google DeepMind)  |
+|  9:20  |  Invited Talk  |  Wang Ling (Google DeepMind) **Generation via Program Induction** |
 |  10:00 |    | Coffee break
 |  10:30  |  Contributed Talk   | Christopher Maddison, Dieterich Lawson, George Tucker, Nicolas Heess, Mohammad Norouzi, Andriy Mnih, Arnaud Doucet and Yee Whye Teh <br> **Filtering Variational Objectives** |
 |  10:50  |  Poster Spotlight   |   1-min blitz (All posters)
