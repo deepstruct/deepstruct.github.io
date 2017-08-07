@@ -6,13 +6,10 @@ redirect_from: "/icml17"
 name: 1
 ---
 
-Workshop of the International Conference on Machine Learning (ICML) 2017 
-
+Workshop of the International Conference on Machine Learning (ICML) 2017 <br>
 Sydney, Australia 
 
-08:30 AM -- 05:30 PM Fri, 11 August 2017
-
-International Convention Centre, C4.5
+08:30 AM -- 05:30 PM Fri, 11 August @ International Convention Centre, C4.5
 
 Website: [http://deepstruct.github.io/icml17](http://deepstruct.github.io/icml17)
 
