@@ -9,11 +9,16 @@ Time/Location:  Fri Aug 11th 08:30 AM -- 05:30 PM @ C4.5
 Confirmed invited speakers:
 
 * [Ryan Adams](http://people.seas.harvard.edu/~rpa/), Harvard University
-* [Sujith Ravi](http://sravi.org/) (Google)
-* [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), University of Massachusetts Amherst
 * [Dhruv Batra](http://www.cc.gatech.edu/~dbatra/index.html), Georgia Tech / Facebook
-* [David Sontag](http://clinicalml.org/) , MIT
 * [Wang Ling](), Google DeepMind
+* [Andrew McCallum](https://people.cs.umass.edu/~mccallum/), University of Massachusetts Amherst
+* [Sujith Ravi](http://sravi.org/) (Google)
+* [David Sontag](http://clinicalml.org/) , MIT
+
+Confirmed panelists:
+
+* [Anima Anandkumar](http://newport.eecs.uci.edu/anandkumar/), University of California Irvine / Amazon Web Services
+
 
 Schedule:
 
@@ -32,5 +37,5 @@ Schedule:
 |  15:00    |     | Coffee break
 |  15:30   |  Invited Talk  |  Dhruv Batra (Georgia Tech and Facebook AI Research) **Sequence-Level Training of Neural Models for Visual Dialog** |
 |  16:10  |  Invited Talk  |  Sujith Ravi (Google) **Neural Graph Learning** |
-|  16:50  |   | Panel discussion
+|  16:50  |   | Panel discussion<br> Ryan Adams, Anima Anandkumar, Dhruv Batra, Wang Ling, Sujith Ravi |
 |  17:30  |  |Closing remarks 
